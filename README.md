@@ -1,1 +1,1 @@
-# Crack IDM 
+#  KÍCH HOẠT IDM BẰNG TOOL CỦA PITVN
