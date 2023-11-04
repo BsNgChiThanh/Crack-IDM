@@ -1,6 +1,9 @@
 #  KÍCH HOẠT IDM BẰNG TOOL CỦA PITVN #
 
-- Download IDM từ trang chủ [bấm vào đây](https://www.internetdownloadmanager.com/download.html), cài xong thì dùng tool active bằng cmd của PITVN [bấm vào đây](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EgvL-yBwO_5Brw6qzXBgNbABe2mGUlhNM8_LilqzsNuyZQ?e=8zFUJB). Lưu ý: Phải đóng tất cả IDM mới kích hoạt thành công.
+- Download IDM từ trang chủ [bấm vào đây](https://www.internetdownloadmanager.com/download.html)
+- https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/idman641build22.exe
+- Cài xong thì dùng tool active bằng cmd [bấm vào đây để download](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/Crack_IDM.cmd) 
+- Lưu ý: Phải đóng tất cả IDM mới kích hoạt thành công.
 - ![image](https://user-images.githubusercontent.com/82578024/219615487-fc31fa4f-fdce-427b-b424-474def84c85a.png)
 - Vô file kích hoạt Activation IDM PITVN.cmd bấm chuột phải chọn Run As Ministrator.
 - ![image](https://user-images.githubusercontent.com/82578024/219620340-1fbd1ab1-14ff-43c6-9adb-ac0846d9aa8c.png)
