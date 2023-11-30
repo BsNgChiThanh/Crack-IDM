@@ -1,6 +1,6 @@
 #  KÍCH HOẠT IDM BẰNG TOOL #
 
-- Download IDM từ trang chủ https://github.com/WindowsAddict/IDM-Activation-Script tìm tới: **IAS Latest Release** bấm vào một trong hai dòng chữ gạch chân: ![image](https://github.com/BsNgChiThanh/Crack-IDM/assets/82578024/091a429e-e664-4d4a-b27f-b2a1740c0c19)
+- Download IDM từ trang chủ https://github.com/WindowsAddict/IDM-Activation-Script tìm tới: **Method 2 - Traditional** bấm vào một trong hai dòng chữ gạch chân: ![image](https://github.com/BsNgChiThanh/Crack-IDM/assets/82578024/091a429e-e664-4d4a-b27f-b2a1740c0c19)
 - Hoặc https://1drv.ms/f/s!AmvuvqBBIcK6iFAfnW4Dexl-sLoW?e=Ql06X2
 - Cài xong thì dùng tool active bằng cmd [bấm vào đây để download](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/Crack_IDM.cmd) 
 - Lưu ý: Phải đóng tất cả IDM mới kích hoạt thành công.
