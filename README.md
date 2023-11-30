@@ -23,5 +23,3 @@ Cài xong mởi IDM lên chỉnh thêm:
 ![image](https://user-images.githubusercontent.com/82578024/219294741-b5dea01a-df27-4a1a-bf32-082308a470af.png)
 
 Nếu không có phần mở rộng của tẹp cần download thì thêm vô, vậy là hoàn tất!
-
-[Trang github liên quan](https://github.com/WindowsAddict/IDM-Activation-Script)
