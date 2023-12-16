@@ -1,4 +1,15 @@
 #  KÍCH HOẠT IDM BẰNG TOOL #
+## Cách 1: ##
+  - Kích hoạt trực tiếp từ **Windows PowerShell:**
+  - Đầu tiên bấm tổ hợp phiếm: **Windows + R**, sau đó điền **PowerShell** rồi bấm enter.
+  - ![image](https://github.com/BsNgChiThanh/Crack-IDM/assets/82578024/73f131a2-efd7-4c50-9a36-106b02d83fca)
+  - Dán vào câu lệnh: **CD C:\Windows\System32** rồi enter
+  - ![image](https://github.com/BsNgChiThanh/Crack-IDM/assets/82578024/cc4df65e-6cc1-47a1-a967-fe19d9983a26)
+  - Dán câu lệnh: **irm https://massgrave.dev/ias | iex** vào và nhấn enter.
+  - ![image](https://github.com/BsNgChiThanh/Crack-IDM/assets/82578024/cbb5b6a7-8f33-448b-ae33-5e8e1ce8a360)
+  - ![image](https://github.com/BsNgChiThanh/Crack-IDM/assets/82578024/5455d546-4428-4b21-87e4-9d376f711676)
+
+## Cách 2: ##
 
 - Download IDM từ trang chủ https://github.com/WindowsAddict/IDM-Activation-Script tìm tới: **Method 2 - Traditional** bấm vào một trong hai dòng chữ gạch chân: ![image](https://github.com/BsNgChiThanh/Crack-IDM/assets/82578024/091a429e-e664-4d4a-b27f-b2a1740c0c19)
 - Cài xong thì dùng tool active bằng cmd [bấm vào đây để download](https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/Crack_IDM.cmd) hoặc https://raw.githubusercontent.com/BsNgChiThanh/Crack-IDM/IMP/Crack_IDM.cmd
