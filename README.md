@@ -1,3 +1,14 @@
+#  GIỚI THIỆU VỀ IDM: #
+
+  - Có thể tải file nhanh chỉ với một cú click chuột, bao gồm tất cả các file có dung lượng lớn lẫn download video, mp3, mp4...
+  - Hỗ trợ tải file siêu tốc trên hầu hết các ứng dụng và trình duyệt phổ biến.
+  - Sau khi quá trình tải về hoàn tất thì IDM sẽ tự động kiểm tra virus tự động.
+  - Hỗ trợ nhiều định dạng file được tải về.
+  - IDM hỗ trợ nhiều loại máy chủ Proxy khác nhau
+  - Nếu quá trình tải về có gặp sự cố IDM sẽ tự động khôi phục lại quá trình tải về.
+  - Bạn có thể hẹn lịch để tải IDM hoặc hẹn thời gian để khôi phục quá trình tải về và việc còn lại sẽ do IDM giải quyết
+  - Hỗ trợ ngôn ngữ tiếng việt và nhiều ngôn ngữ khác nhau.
+
 #  KÍCH HOẠT IDM BẰNG TOOL #
 ## Cách 1: ##
   - Kích hoạt trực tiếp từ **Windows PowerShell:**
